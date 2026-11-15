@@ -1,0 +1,1 @@
+"""JobIntel application package."""

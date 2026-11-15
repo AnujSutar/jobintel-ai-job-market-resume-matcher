@@ -1,0 +1,13 @@
+source_id,source,source_type,title,company,city,work_mode,salary_min_lpa,salary_max_lpa,experience_band,skills,description,posted_date
+demo-001,Demo CSV,sample,Data Analyst,Example Retail Analytics,Bengaluru,Hybrid,6,10,0-2 years,"Python, SQL, Excel, Power BI","Demo record for testing the JobIntel data pipeline.",2026-10-28
+demo-002,Demo CSV,sample,Data Scientist,Example Health Data,Hyderabad,Remote,10,18,2-4 years,"Python, SQL, pandas, scikit-learn, Tableau","Demo record for testing the JobIntel data pipeline.",2026-10-27
+demo-003,Demo CSV,sample,Machine Learning Engineer,Example Cloud Systems,Pune,On-site,12,22,2-4 years,"Python, PyTorch, Docker, AWS, MLflow","Demo record for testing the JobIntel data pipeline.",2026-10-26
+demo-004,Demo CSV,sample,Data Analyst,Example Finance Tools,Mumbai,Hybrid,7,12,1-3 years,"SQL, Excel, Power BI, Python","Demo record for testing the JobIntel data pipeline.",2026-10-24
+demo-005,Demo CSV,sample,Data Scientist,Example Mobility Lab,Bengaluru,On-site,14,24,3-5 years,"Python, SQL, TensorFlow, Spark, AWS","Demo record for testing the JobIntel data pipeline.",2026-10-23
+demo-006,Demo CSV,sample,Machine Learning Engineer,Example Vision Platform,Chennai,Hybrid,11,20,2-4 years,"Python, PyTorch, OpenCV, Docker, Kubernetes","Demo record for testing the JobIntel data pipeline.",2026-10-21
+demo-007,Demo CSV,sample,Data Analyst,Example People Insights,Delhi NCR,Remote,6,11,0-2 years,"SQL, Excel, Tableau, Statistics","Demo record for testing the JobIntel data pipeline.",2026-10-20
+demo-008,Demo CSV,sample,Data Scientist,Example Learning Products,Pune,Hybrid,9,17,1-3 years,"Python, pandas, scikit-learn, SQL, Airflow","Demo record for testing the JobIntel data pipeline.",2026-10-18
+demo-009,Demo CSV,sample,Machine Learning Engineer,Example Search Lab,Hyderabad,On-site,15,27,3-5 years,"Python, TensorFlow, GCP, Docker, Kubernetes","Demo record for testing the JobIntel data pipeline.",2026-10-16
+demo-010,Demo CSV,sample,Data Analyst,Example Logistics Data,Bengaluru,Hybrid,8,13,1-3 years,"SQL, Python, Power BI, Excel, dbt","Demo record for testing the JobIntel data pipeline.",2026-10-14
+demo-011,Demo CSV,sample,Data Scientist,Example Sustainability AI,Delhi NCR,Remote,13,23,2-4 years,"Python, SQL, PyTorch, AWS, MLflow","Demo record for testing the JobIntel data pipeline.",2026-10-12
+demo-012,Demo CSV,sample,Machine Learning Engineer,Example Language Systems,Bengaluru,Hybrid,16,28,3-5 years,"Python, PyTorch, Hugging Face, FastAPI, AWS","Demo record for testing the JobIntel data pipeline.",2026-10-10
